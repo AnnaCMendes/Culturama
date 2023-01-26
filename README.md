@@ -1,7 +1,7 @@
 
 # ![image](https://user-images.githubusercontent.com/76708357/191308741-fb59ba6c-8750-4e09-873b-6ab2e96225b7.png) Culturama 
 
-O Culturama é um site para divulgação de eventos culturais, criado especialmente para este curso, aqui você pode acessar o [figma](https://www.figma.com/file/mC6DmuXPGWHYkMWOQD3khm/2713---Praticando-CSS%3A-Grid-e-Flexbox?node-id=79%3A289) do projeto.
+O Culturama é um site para divulgação de eventos culturais.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
