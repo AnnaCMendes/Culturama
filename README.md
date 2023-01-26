@@ -1,4 +1,3 @@
-![thumbnail-Praticando CSS_ Grid e Flexbox](https://user-images.githubusercontent.com/76708357/191305858-3d53d611-1ad9-4c3c-b11a-79ff9713153a.png)
 
 # ![image](https://user-images.githubusercontent.com/76708357/191308741-fb59ba6c-8750-4e09-873b-6ab2e96225b7.png) Culturama 
 
