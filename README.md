@@ -17,6 +17,8 @@
   
 <h2>O desafio:</h2>
 <p align="justify">Seguindo a metodologia Flexbox e Grid, o Culturama é um site para divulgação de eventos culturais.</p>
+<p>Disponível apenas para Computadores, Celulares.</p>
+<a href="https://culturama-bay.vercel.app/">Veja aqui o projeto!</a>
 
 --------------------------------------------------------------------------------------------------------------------
 
